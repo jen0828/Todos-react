@@ -1,3 +1,5 @@
+⚠️ This project is archived and no longer maintained.
+
 # TodoList-react
 
 A simple todo-list app built with React.
